@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/fungilab
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fungilab.github.io
+  * I am fungilab (https://keybase.io/fungilab) on keybase.
+  * I have a public key ASBcrfzmkB0d8TqCvnHNKEylw-9xreSfH8dmgGMwilYyGgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205cadfce6901d1df13a82be71cd284ca5c3ef71ade49f1fc7668063308a56321a0a",       
+      "host": "keybase.io",
+      "kid": "01205cadfce6901d1df13a82be71cd284ca5c3ef71ade49f1fc7668063308a56321a0a",
+      "uid": "865f3117fe5b2dc45d2d0a891e232519",
+      "username": "fungilab"
+    },
+    "merkle_root": {
+      "ctime": 1657231825,
+      "hash": "3e21dcf4e46a6b3100742d3d10ca9c5e7a66b3835a614f823acead511ce1f7b3b6dc500dab2411aafaecaa40ac36be83b1d3efc1e8b13ef177711dc24c46440d",
+      "hash_meta": "5f5e7179e4be7f64d86e0d0a9d535e97faf2d1b96938186ff899bac794f4a85e",
+      "seqno": 22809166
+    },
+    "service": {
+      "entropy": "btByLm6mfKdPJGL+E94+nTCD",
+      "hostname": "fungilab.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1657231890,
+  "expire_in": 504576000,
+  "prev": "e1d47cdbbaa140d5d07c5bdef7395a5b020d3a1bb16d2aec21a8ee3ad3320a25",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXK385pAdHfE6gr5xzShMpcPvca3knx/HZoBjMIpWMhoKp3BheWxvYWTESpcCCMQg4dR827qhQNXQfFve9zlaWwINOhuxbSrsIajuOtMyCiXEIO27TgvVDWIi7rp/2Lz7H+H1GXzVle2ym0znLd6PggXsAgHCo3NpZ8RAc18IKNGvtW3FtxTU4+WkNJg8qmvLYFwIO/o5xFTSN07Sj5sxAp6hUxlwrE1JmHMHGej8hHIwjigk/iaD2HjZAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOe8NV5VZTwrbW02R64NwBfc5m6apAx79Hla5hXvp3pfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fungilab
+
+==================================================================
